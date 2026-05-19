@@ -1,16 +1,16 @@
-.App-header {
+.app-header {
     display: flex;
 }
 
-.App-header img {
+.app-header img {
     margin-right: 20px;
 }
 
-.App-header h2 {
+.app-header h2 {
     font-size: 1.5rem;
 }
 
-.Menu {
+.menu {
     list-style: none;
     display: flex;
     gap: 15px;
@@ -19,4 +19,11 @@
 
 section h2 {
     margin-left: auto;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20%;
+    font-size: 0.9rem;
+    color: #888;
 }

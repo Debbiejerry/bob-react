@@ -4,11 +4,11 @@ import reactLogo from './assets/react.svg'
 export default function Header() {
   return (
     <>
-        <header className="App-header">
+        <header className="app-header">
             <img src={reactLogo} alt="React Logo" />
             <h2>React Fun-facts</h2>
 
-            <ul className="Menu">
+            <ul className="menu">
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
