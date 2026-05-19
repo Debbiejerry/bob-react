@@ -1,7 +1,7 @@
 import './App.css'
 import reactLogo from './assets/react.svg'
 
-function Header() {
+export default function Header() {
   return (
     <>
         <header className="App-header">
@@ -18,5 +18,3 @@ function Header() {
     
   )
 }
-
-export default Header
